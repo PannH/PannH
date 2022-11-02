@@ -17,4 +17,4 @@
 
 <h2>Additional Technologies</h2>
 
-![React](./assets/badge_react.svg) ![Prisma](./assets/badge_prisma.svg) ![Vite](./assets/badge_vite.svg) ![Express JS](./assets/badge_expressjs.svg) ![Node JS](./assets/badge_nodejs.svg) ![NPM](./assets/badge_npm.svg) ![Netlify](./assets/badge_netlify.svg)
+![React](./assets/badge_react.svg) ![Prisma](./assets/badge_prisma.svg) ![Vite](./assets/badge_vite.svg) ![NPM](./assets/badge_npm.svg) ![Netlify](./assets/badge_netlify.svg)
