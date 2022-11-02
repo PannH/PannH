@@ -4,10 +4,16 @@
 
 <h1 align="center">🛡️ Badges</h1>
 <h2>Operating System</h2>
-<img src="./assets/badge_windows11.svg" alt="Windows 11"/>
+
+![Windows 11](./assets/badge_windows11.svg)
+
 <h2>Text Editor</h2>
-<img src="./assets/badge_visualstudiocode.svg" alt="Visual Studio Code"/>
+
+![Visual Studio Code](./assets/badge_visualstudiocode.svg)
+
 <h2>Languages</h2>
-<img src="./assets/badge_html5.svg" alt="HTML5"/><img src="./assets/badge_css3.svg" alt="CSS3"/><img src="./assets/badge_javascript.svg" alt="JavaScript"/><img src="./assets/badge_typescript.svg" alt="TypeScript"/>
+
+![HTML5](./assets/badge_html5.svg) ![CSS3](./assets/badge_css3.svg) ![JavaScript](./assets/badge_javascript.svg) ![TypeScript](./assets/badge_typescript.svg)
+
 <h2>Additional Technologies</h2>
 ...
