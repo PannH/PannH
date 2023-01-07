@@ -1,20 +1,30 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Profile Banner"/>
+  <img height="130" src="./assets/banner.svg" alt="PannH's GitHub Profile"/>
 </p>
 
-<h1 align="center">👨‍💻 Things I code with</h1>
-<h2>Operating System</h2>
+<p align="center">
+   👋 Hello! I'm PannH, a french-speaking student from Belgium who learns development as a self-taught.
+</p>
 
-[![Windows 11](./assets/badge_windows11.svg)](https://www.microsoft.com/en-us/windows/windows-11)
+## 💻 Some stuff I mainly code with
+### IDE ↴
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
 
-<h2>Text Editor</h2>
+### Languages ↴
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
 
-[![Visual Studio Code](./assets/badge_visualstudiocode.svg)](https://code.visualstudio.com/)
+### Libraries & Frameworks ↴
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg">
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 
-<h2>Languages</h2>
+### OS ↴
+<img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
 
-[![HTML5](./assets/badge_html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](./assets/badge_css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](./assets/badge_javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](./assets/badge_typescript.svg)](https://www.typescriptlang.org/)
+---
 
-<h2>Additional Technologies</h2>
-
-[![React](./assets/badge_react.svg)](https://en.reactjs.org/) [![Prisma](./assets/badge_prisma.svg)](https://www.prisma.io/) [![Vite](./assets/badge_vite.svg)](https://vitejs.dev/) [![Express JS](./assets/badge_expressjs.svg)](https://expressjs.com/) [![Node JS](./assets/badge_nodejs.svg)](https://nodejs.org/en/) [![NPM](./assets/badge_npm.svg)](https://www.npmjs.com/) [![Netlify](./assets/badge_netlify.svg)](https://www.netlify.com/)
+*This page uses the [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges) pack.*
