@@ -14,11 +14,11 @@
 ### IDE ↴
 ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 
-### Libraries & Frameworks ↴
-![npm](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg) ![Express](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
-
 ### Languages ↴
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+
+### Tools ↴
+![npm](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg) ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![VueJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg) ![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
 
 ---
 
