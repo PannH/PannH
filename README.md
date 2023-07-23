@@ -2,11 +2,14 @@
   <img src="./assets/banner.svg" alt="PannH's GitHub Profile" />
 </p>
 
-<p align="center">
-   👋 Hello! I'm PannH, a french-speaking student from Belgium who learns development as a self-taught.
-</p>
+## 👤 About me
 
-## 💻 Some stuff I mainly code with
+- 🌍 From Belgium (Wallonia)
+- 👅 French speaker
+- 💻 Web developer (front and back end)
+- 📅 Since 2020
+
+## 👨‍💻 Stuff I mainly code with
 
 ### OS ↴
 ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
@@ -22,4 +25,4 @@
 
 ---
 
-*This page uses the [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges) pack.*
+*⭐ This page uses the [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges) pack.*
