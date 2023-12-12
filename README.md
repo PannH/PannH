@@ -21,7 +21,7 @@
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 
 ### Tools ↴
-![npm](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg) ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Vue.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg) ![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg) ![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+![npm](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg) ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Vue.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg) ![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg) ![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg) ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 
 ---
 
