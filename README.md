@@ -13,9 +13,3 @@
 [WakaTime · My coding stats](https://wakatime.com/@PannH)
 
 ![Information](https://creatorspace.imgix.net/users/cltpt3vp800ufo901s4kq99wb/fOKnl60go4WHGNqx-Frame%25202.svg?w=400)
-
-<style>
-   img {
-      border-radius: 30px;
-   }
-</style>
