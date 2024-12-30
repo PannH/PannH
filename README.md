@@ -10,6 +10,17 @@
 [![Discord Widget](https://creatorspace.imgix.net/users/cltpt3vp800ufo901s4kq99wb/z3McpGv8nHnW0Q15-bento_widget_discord.png?w=400)](https://discord.com/users/667302589213310997)
 
 ### Scriptum ↯
-[WakaTime · My coding stats](https://wakatime.com/@PannH)
-
-![Information](https://creatorspace.imgix.net/users/cltpt3vp800ufo901s4kq99wb/fOKnl60go4WHGNqx-Frame%25202.svg?w=400)
+```ts
+// src/profile.ts
+const developer: DeveloperProfile {
+    username: 'PannH',
+    dateOfBirth: new Date('September 26, 2005'),
+    languages: [
+        'JavaScript', 'TypeScript', 'HTML', 'CSS'
+    ],
+    tools: [
+        'VS Code', 'Node.js', 'npm', 'Git', 'GitHub'
+    ],
+    os: 'Windows 11'
+}
+```
