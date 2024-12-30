@@ -10,6 +10,7 @@
 [![Discord Widget](https://creatorspace.imgix.net/users/cltpt3vp800ufo901s4kq99wb/z3McpGv8nHnW0Q15-bento_widget_discord.png?w=400)](https://discord.com/users/667302589213310997)
 
 ### Scriptum ↯
+[📈 WakaTime - My Coding Stats](https://wakatime.com/@PannH)
 ```ts
 // src/profile.ts
 const developer: DeveloperProfile {
